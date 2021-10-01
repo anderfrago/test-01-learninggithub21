@@ -10,4 +10,6 @@ Esto es una _cursiva_ y esto es negrita **así**.
 
 Mi primer proyecto Github
 
-Versión de desarrollo 2, añadiendo nuevas funcionalidades
+
+Versión de producción, añadiendo nuevas funcionalidades
+
